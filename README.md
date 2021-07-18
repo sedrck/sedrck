@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 My name is Sedrick!
-<br>You can call me Sed.
+<br>You can call me Sed for short.
 
-<br>🔭 I’m currently working on: learning applications and web development!
+<br>🔭 I’m currently: spending my free time learning software development!
 <br>📌 I’m currently learning: Quantum Computing and Blockchain for my internship.
 <br>📫 Reach me on: https://www.linkedin.com/in/sedrickd/
 <br>📚 I am interested in: Artificial Intelligence, Quantum Computing, and Machine Learning.
